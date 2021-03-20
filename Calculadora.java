@@ -4,6 +4,7 @@
  * de dos enteros.
  * @author Valeria Garcia Landa
  * @version Sept 2018
+ * @author Brenda Yareli García Landa
  */
 
 public class Calculadora{
