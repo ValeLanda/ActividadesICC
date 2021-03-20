@@ -3,6 +3,7 @@
  * <br>Clase que implementa el metodo main para probar la
  * clase de la calculadora
  * @version Sept 2018
+ joshua Said montaño perez 
  */
 
 public class PruebaCalculadora{
